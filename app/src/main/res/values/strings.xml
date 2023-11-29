@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RustMusic</string>
+    <string name="navigation_drawer_open">\n\n\n</string>
+    <string name="navigation_drawer_close" />
+</resources>
